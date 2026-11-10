@@ -5,6 +5,7 @@
 
 **[⬇ تحميل لـ Windows](https://github.com/riadmca/alqatriya-gestion/releases/latest/download/ElQatariya-Gestion-Setup.exe)**
 · **[⬇ تحميل لـ Android](https://github.com/riadmca/alqatriya-gestion/releases/latest/download/ElQatariya-Gestion-Android.apk)**
+· **[iPhone / الويب](https://gestion.alqatriya.com)**
 
 ![واجهة التثبيت](installer.png)
 
@@ -25,5 +26,14 @@ Windows 10 / 11، 64 بت. لا يحتاج صلاحيات المدير.
 3. التطبيق يظهر باسم «تسيير القطرية». يطلب الكاميرا عند أول مسح باركود.
 
 Android 7 فما فوق.
+
+## iPhone
+لا يوجد تطبيق iOS: البرنامج يعمل على الويب.
+1. افتح **[gestion.alqatriya.com](https://gestion.alqatriya.com)** في Safari.
+2. اضغط مشاركة ← «إضافة إلى الشاشة الرئيسية»: يظهر «تسيير القطرية» كتطبيق.
+3. اسمح بالكاميرا عند أول مسح باركود.
+
+> لوحة تحكم الموقع (الطلبيات، المنتجات، الإعدادات) منفصلة:
+> [admin.alqatriya.com](https://admin.alqatriya.com).
 
 هذا المستودع يحمل ملفات التثبيت والإصدارات فقط.
